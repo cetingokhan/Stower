@@ -1,2 +1,2 @@
 # Stower
-Stacking received data and toppling on stack limit for bulk operations
+Stacks incoming data and toppling it for batch operation when it comes to the stack limit
